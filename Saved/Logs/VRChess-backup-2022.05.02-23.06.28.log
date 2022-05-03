@@ -1,0 +1,784 @@
+﻿Log file open, 05/02/22 16:05:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VRChess
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.106995
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -game
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Engine.ini]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[r.MobileMSAA:4]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Engine.ini]
+[2022.05.02-23.05.58:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Engine.ini]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Engine.ini]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.02-23.05.58:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Engine.ini]
+[2022.05.02-23.05.58:370][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Engine.ini]
+[2022.05.02-23.05.58:382][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.02-23.05.58:382][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.02-23.05.58:383][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.02-23.05.58:383][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.02-23.05.58:383][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.02-23.05.58:384][  0]LogHAL: Display: Platform has ~ 32 GB [34153750528 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.02-23.05.58:384][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.02-23.05.58:384][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.02-23.05.58:384][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Scalability.ini]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.02-23.05.58:385][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.02-23.05.58:386][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.02-23.05.58:386][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Engine.ini]
+[2022.05.02-23.05.58:386][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Config/Windows/Editor.ini]
+[2022.05.02-23.05.58:386][  0]LogInit: Computer: DESKTOP-2J5DN8J
+[2022.05.02-23.05.58:386][  0]LogInit: User: UNR
+[2022.05.02-23.05.58:386][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.05.02-23.05.58:386][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.02-23.05.58:386][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.05.02-23.05.58:386][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.02-23.05.58:386][  0]LogMemory: Process Physical Memory: 145.49 MB used, 145.50 MB peak
+[2022.05.02-23.05.58:386][  0]LogMemory: Process Virtual Memory: 131.40 MB used, 131.40 MB peak
+[2022.05.02-23.05.58:386][  0]LogMemory: Physical Memory: 3621.34 MB used,  28950.21 MB free, 32571.55 MB total
+[2022.05.02-23.05.58:386][  0]LogMemory: Virtual Memory: 134184776.00 MB used,  32951.95 MB free, 134217728.00 MB total
+[2022.05.02-23.05.58:391][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.02-23.05.58:598][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.02-23.05.58:601][  0]LogInit: Using OS detected language (en-US).
+[2022.05.02-23.05.58:601][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.02-23.05.58:619][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.05.02-23.05.58:924][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.02-23.05.58:987][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.02-23.05.58:987][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.02-23.05.59:023][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.05.02-23.05.59:593][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2022.05.02-23.05.59:594][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.02-23.05.59:594][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.02-23.05.59:594][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.02-23.05.59:919][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (Feature Level 11_0)
+[2022.05.02-23.05.59:919][  0]LogD3D11RHI:       8031/0/16285 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.05.02-23.05.59:943][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.05.02-23.05.59:943][  0]LogD3D11RHI:       128/0/16285 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.05.02-23.05.59:945][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.02-23.05.59:945][  0]LogD3D11RHI:       0/0/16285 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.02-23.05.59:945][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.05.02-23.05.59:945][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070 with Max-Q Design
+[2022.05.02-23.05.59:945][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.02-23.05.59:945][  0]LogD3D11RHI:     DeviceId    : 1f10
+[2022.05.02-23.05.59:945][  0]LogD3D11RHI:     SubSysId    : 95e11558
+[2022.05.02-23.05.59:945][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.02-23.05.59:945][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.05.02-23.05.59:945][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.02-23.05.59:945][  0]LogD3D11RHI:     SharedSystemMemory : 17076875264 bytes
+[2022.05.02-23.05.59:945][  0]LogD3D11RHI:     AdapterLuid : 0 59192
+[2022.05.02-23.05.59:952][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.02-23.05.59:952][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.02-23.05.59:952][  0]LogWindows: EnumDisplayDevices:
+[2022.05.02-23.05.59:952][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.05.02-23.05.59:952][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.05.02-23.05.59:952][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.05.02-23.05.59:953][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2022.05.02-23.05.59:953][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2022.05.02-23.05.59:953][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2022.05.02-23.05.59:953][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2022.05.02-23.05.59:953][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.05.02-23.05.59:953][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 with Max-Q Design
+[2022.05.02-23.05.59:954][  0]LogD3D11RHI:   Driver Version: 457.20 (internal:27.21.14.5720, unified:457.20)
+[2022.05.02-23.05.59:954][  0]LogD3D11RHI:      Driver Date: 11-2-2020
+[2022.05.02-23.05.59:954][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2022.05.02-23.05.59:954][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.05.02-23.05.59:954][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070 with Max-Q Design
+[2022.05.02-23.05.59:954][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.02-23.05.59:954][  0]LogD3D11RHI:     DeviceId    : 1f10
+[2022.05.02-23.05.59:954][  0]LogD3D11RHI:     SubSysId    : 95e11558
+[2022.05.02-23.05.59:954][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.02-23.05.59:954][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.05.02-23.05.59:954][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.02-23.05.59:954][  0]LogD3D11RHI:     SharedSystemMemory : 17076875264 bytes
+[2022.05.02-23.05.59:954][  0]LogD3D11RHI:     AdapterLuid : 0 59192
+[2022.05.02-23.06.00:021][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.02-23.06.00:022][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.02-23.06.00:022][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.02-23.06.00:053][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.02-23.06.00:168][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.02-23.06.01:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.02-23.06.01:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.02-23.06.01:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.02-23.06.01:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.02-23.06.01:061][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.02-23.06.01:188][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.02-23.06.01:366][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.05.02-23.06.01:597][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.02-23.06.01:598][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Pri/Courses/CS684VR/VRChess/VRChess/Intermediate/Shaders/WorkingDirectory/11064/).
+[2022.05.02-23.06.01:599][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/UNR/AppData/Local/Temp/UnrealShaderWorkingDir/4BEE681941870C64B242A8945ACFD46B/'.
+[2022.05.02-23.06.01:599][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.02-23.06.01:599][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.02-23.06.01:599][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.02-23.06.04:047][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.02-23.06.04:047][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2022.05.02-23.06.04:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Pri/Courses/CS684VR/VRChess/VRChess/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.02-23.06.04:048][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.02-23.06.04:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Pri/Courses/CS684VR/VRChess/VRChess/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.02-23.06.04:048][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.02-23.06.04:072][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.02-23.06.04:072][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.02-23.06.04:072][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.02-23.06.04:086][  0]LogDerivedDataCache: Speed tests for C:/Users/UNR/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.02-23.06.04:086][  0]LogDerivedDataCache: Display: Performance to C:/Users/UNR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.17ms. RandomReadSpeed=129.88MBs, RandomWriteSpeed=210.75MBs. Assigned SpeedClass 'Local'
+[2022.05.02-23.06.04:087][  0]LogDerivedDataCache: Using Local data cache path C:/Users/UNR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.02-23.06.04:087][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.02-23.06.04:087][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.02-23.06.04:345][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.02-23.06.04:360][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.02-23.06.04:505][  0]LogInit: Using OS detected language (en-US).
+[2022.05.02-23.06.04:505][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.02-23.06.04:505][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.05.02-23.06.04:505][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2022.05.02-23.06.04:505][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.05.02-23.06.04:505][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.05.02-23.06.04:512][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2022.05.02-23.06.04:512][  0]LogAssetRegistry: FAssetRegistry took 0.0044 seconds to start up
+[2022.05.02-23.06.04:757][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.032314 seconds
+[2022.05.02-23.06.04:822][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.02-23.06.04:823][  0]LogInit: Active device profile: [0000024832AF7100][000002482C9CE440 49] Windows
+[2022.05.02-23.06.04:823][  0]LogInit: Profiles: [0000024832AF7100][000002482C9CE440 49] Windows, [0000024833A9D100][000002482EF9C5C0 49] WindowsNoEditor, [0000024832AF5100][000002482EFA0740 49] WindowsServer, [0000024833A9E600][000002482EFA48C0 49] WindowsClient, [0000024832AF6600][000002482EFA8A40 49] IOS, [0000024833A9FC00][000002482EFACBC0 49] iPadAir, [0000024832AF6F00][000002482EFB0D40 49] iPadAir2, [0000024833A5AB00][000002482EFB9000 49] IPadPro, [0000024833A5AC00][000002482EFB5040 49] iPadAir3, [0000024832AF5300][000002482C9D3180 49] iPadAir4, [0000024833A5B600][000002482EFBD2C0 49] iPadMini2, [0000024832AF4100][000002482EFC1400 49] iPadMini3, [0000024833A58B00][000002482EFC5540 49] iPadMini4, [0000024832AF4A00][000002482ED1F6C0 49] iPadMini5, [0000024833A8A400][000002482ED27980 49] iPhone6, [0000024833A8A500][000002482ED239C0 49] iPodTouch6, [0000024833A5BC00][000002482ED2E100 49] iPhone7, [0000024833A58C00][000002482ED2A140 49] iPodTouch7, [0000024833A8AE00][000002482ED322C0 49] iPhone5S, [0000024833A5A400][000002482ED36440 49] iPhone6Plus, [0000024833A88B00][000002482ED3A5C0 49] iPhone6S, [0000024833A59D00][000002482ED3E740 49] iPhone6SPlus, [0000024833A8B500][000002482ED428C0 49] iPhone7Plus, [0000024833A58A00][000002482ED46A40 49] iPhoneSE, [0000024833A88600][000002482ED4ABC0 49] iPhone8, [0000024833A5B700][000002482ED4ED40 49] iPhone8Plus, [0000024833A88800][000002482ED52EC0 49] iPhoneX, [0000024833A58700][000002482ED57040 49] iPhoneXS, [0000024833A88200][000002482ED5B1C0 49] iPhoneXSMax, [0000024833A59900][000002482EFC9300 49] iPhoneXR, [0000024833A89800][000002482ED5F440 49] iPhone11, [0000024833A59800][000002482ED63580 49] iPhone11Pro, [0000024833A89600][000002482ED676C0 49] iPhone11ProMax, [0000024833A58800][000002482FB4F840 49] iPhoneSE2, [0000024833A88D00][000002482FB539C0 49] iPhone12Mini, [0000024833A5A800][000002482FB57B40 49] iPhone12, [0000024833A89D00][000002482FB5A140 49] iPhone12Pro, [0000024833A5B300][000002482FB5E2C0 49] iPhone12ProMax, [0000024833A89C00][000002482FB62440 49] iPadPro105, [0000024833A59400][000002482FB665C0 49] iPadPro129, [0000024833A89200][000002482FB6A740 49] iPadPro97, [0000024833A58F00][000002482FB6E8C0 49] iPadPro2_129, [0000024833A8BF00][000002482FB72A40 49] iPad5, [0000024833A59300][000002482FB76BC0 49] iPad6, [0000024833A8A700][000002482FB7AD40 49] iPad7, [0000024833A59F00][000002482FB7EEC0 49] iPad8, [0000024833A8B600][000002482FB83040 49] iPadPro11, [0000024833A5B500][000002482FB871C0 49] iPadPro2_11, [0000024833A89000][000002482FB8B340 49] iPadPro3_129, [0000024833A5A100][000002482FB8F4C0 49] iPadPro4_129, [0000024833A9D300][000002482FB4B600 49] AppleTV, [0000024832B41400][000002482FB93740 49] AppleTV4K, [0000024833A9F600][000002482FB97880 49] TVOS, [0000024832B41000][000002482FB9FA00 49] Mac, [0000024833A9C500][000002482FBA3B80 49] MacClient, [0000024832B41100][000002482FBA6180 49] MacNoEditor, [0000024833A9D200][000002482FBAA300 49] MacServer, [0000024832B42100][000002482FBAE480 49] Linux, [0000024833A9D900][000002482FBB2600 49] LinuxAArch64, [0000024832B41F00][000002482FBB6780 49] LinuxNoEditor, [0000024833A9D400][000002482FBBA900 49] LinuxAArch64NoEditor, [0000024832B40300][000002482FBBEA80 49] LinuxClient, [0000024833A9F800][000002482FBC2C00 49] LinuxAArch64Client, [0000024832B41D00][000002482FBC6D80 49] LinuxServer, [0000024833A9CA00][000002482FBCAF00 49] LinuxAArch64Server, [0000024832B42800][000002482FBCF080 49] Android, [0000024833A9C400][000002482FBD3200 49] Android_Low, [0000024832B40700][000002482FBD7380 49] Android_Mid, [0000024833A9D700][000002482FBDB500 49] Android_High, [0000024832B42700][000002482FBDF680 49] Android_Default, [0000024833A58100][000002482FB9B7C0 49] Android_Adreno4xx, [0000024833A8BC00][000002482FBE3900 49] Android_Adreno5xx_Low, [0000024833A5B900][000002482FBE7A40 49] Android_Adreno5xx, [0000024833A88900][000002482FBEFBC0 49] Android_Adreno6xx, [0000024833A5A600][000002482FBF21C0 49] Android_Adreno6xx_Vulkan, [0000024833A89300][000002482FBF6340 49] Android_Mali_T6xx, [0000024833A5A500][000002482FBFA4C0 49] Android_Mali_T7xx, [0000024833A8B100][000002482FBFE640 49] Android_Mali_T8xx, [0000024833A58600][000002482FC027C0 49] Android_Mali_G71, [0000024832B41500][000002482FC06940 49] Android_Mali_G72, [0000024833A5BF00][000002482FC0AAC0 49] Android_Mali_G72_Vulkan, [0000024832B41200][000002482E400C40 49] Android_Mali_G76, [0000024833A5A700][000002482E404DC0 49] Android_Mali_G76_Vulkan, [0000024832B40400][000002482E408F40 49] Android_Mali_G77, [0000024833A58200][000002482E40D0C0 49] Android_Mali_G77_Vulkan, [0000024832B41900][000002482E411240 49] Android_Mali_G78, [0000024833A58E00][000002482E4153C0 49] Android_Mali_G78_Vulkan, [0000024832B42400][000002482E419540 49] Android_Mali_G710, [0000024833A59600][000002482E41D6C0 49] Android_Mali_G710_Vulkan, [0000024832B40B00][000002482E421840 49] Android_Vulkan_SM5, [0000024833A58D00][000002482FBEB980 49] Android_PowerVR_G6xxx, [0000024832B41B00][000002482E425AC0 49] Android_PowerVR_GT7xxx, [0000024833A5A200][000002482F503C00 49] Android_PowerVR_GE8xxx, [0000024832B40100][000002482F5061C0 49] Android_PowerVR_GM9xxx, [0000024833A5A900][000002482F50E340 49] Android_PowerVR_GM9xxx_Vulkan, [0000024833A8AF00][000002482F5124C0 49] Android_TegraK1, [0000024833A5A000][000002482F516640 49] Android_Unknown_Vulkan, [0000024833A8A100][000002482F51A7C0 49] Lumin, [0000024833A59B00][000002482F51E940 49] Lumin_Desktop, [0000024833A8A000][000002482F522AC0 49] HoloLens, 
+[2022.05.02-23.06.05:136][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.02-23.06.05:136][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.02-23.06.05:136][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.02-23.06.05:136][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.02-23.06.05:137][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.02-23.06.05:244][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C9846FD32093BF989F862944D7BE383CF1A3E28E), compiling. 
+[2022.05.02-23.06.05:398][  0]LogShaderCompilers: Display: Submitted 139 shader compile jobs with 'High' priority
+[2022.05.02-23.06.05:957][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 139
+[2022.05.02-23.06.05:957][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 129
+[2022.05.02-23.06.05:957][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 119
+[2022.05.02-23.06.05:957][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 109
+[2022.05.02-23.06.05:957][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 99
+[2022.05.02-23.06.05:957][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 89
+[2022.05.02-23.06.05:957][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 79
+[2022.05.02-23.06.05:957][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 69
+[2022.05.02-23.06.05:957][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 59
+[2022.05.02-23.06.05:957][  0]LogShaderCompilers: Display: Started 90 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.13:238][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 49
+[2022.05.02-23.06.13:238][  0]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.13:798][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2022.05.02-23.06.13:798][  0]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.14:360][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 38
+[2022.05.02-23.06.14:360][  0]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.14:360][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 33
+[2022.05.02-23.06.14:360][  0]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.14:360][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
+[2022.05.02-23.06.14:360][  0]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.14:360][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2022.05.02-23.06.14:360][  0]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.14:920][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2022.05.02-23.06.14:920][  0]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.15:479][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2022.05.02-23.06.15:479][  0]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.15:479][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2022.05.02-23.06.15:479][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.16:039][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2022.05.02-23.06.16:039][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.17:158][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 12
+[2022.05.02-23.06.17:158][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.17:158][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.05.02-23.06.17:158][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.17:158][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.05.02-23.06.17:158][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.17:717][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2022.05.02-23.06.17:717][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.17:717][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.05.02-23.06.17:717][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.18:277][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.05.02-23.06.18:277][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.18:277][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.05.02-23.06.18:277][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.18:277][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.05.02-23.06.18:277][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.18:277][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.05.02-23.06.18:277][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.18:277][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.05.02-23.06.18:277][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.18:828][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CB09A01979A93D22C3D2059F6BA151E9AF524516), compiling. 
+[2022.05.02-23.06.18:841][  0]LogShaderCompilers: Display: Submitted 22 shader compile jobs with 'High' priority
+[2022.05.02-23.06.19:401][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2022.05.02-23.06.19:401][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2022.05.02-23.06.19:401][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2022.05.02-23.06.19:401][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2022.05.02-23.06.19:401][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.05.02-23.06.19:401][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2022.05.02-23.06.19:401][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.05.02-23.06.19:401][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.05.02-23.06.19:401][  0]LogShaderCompilers: Display: Started 22 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.19:861][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9E3616DA790D964BCB2113BE9158B186454E97B8), compiling. 
+[2022.05.02-23.06.19:892][  0]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'High' priority
+[2022.05.02-23.06.20:452][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2022.05.02-23.06.20:452][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2022.05.02-23.06.20:452][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2022.05.02-23.06.20:452][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2022.05.02-23.06.20:452][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.05.02-23.06.20:452][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2022.05.02-23.06.20:452][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.05.02-23.06.20:452][  0]LogShaderCompilers: Display: Started 27 'Local' shader compile jobs with 'High' priority
+[2022.05.02-23.06.21:120][  0]LogMaterial: Display: Missing cached shadermap for MatineeCam_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 84F122457C846CD6C09AB1C741F7437C7F06BD24), compiling. 
+[2022.05.02-23.06.21:136][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.21:205][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2022.05.02-23.06.21:205][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.05.02-23.06.21:205][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.05.02-23.06.21:205][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2022.05.02-23.06.21:205][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.05.02-23.06.21:205][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.05.02-23.06.21:205][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.05.02-23.06.21:205][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.05.02-23.06.21:205][  0]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2022.05.02-23.06.21:205][  0]LogNetVersion: VRChess 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2686174489)
+[2022.05.02-23.06.21:340][  0]LogMaterial: Display: Missing cached shadermap for HelpActorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FDF1DC333286CA9C22AAFC4D9A7260462322B3AC), compiling. 
+[2022.05.02-23.06.21:444][  0]LogShaderCompilers: Display: Submitted 78 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.21:720][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 78
+[2022.05.02-23.06.21:720][  0]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.05.02-23.06.21:720][  0]LogMaterial: Display: Missing cached shadermap for M_ChromeBall in PCD3D_SM5, Default, SM5 (DDC key hash: FDC5DED9A53C6235FD6C990135DC73A859E9B016), compiling. 
+[2022.05.02-23.06.21:765][  0]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.21:821][  0]LogMaterial: Display: Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: FFEBDF3C00FD9832543AAAE73CA792FAC5BDA38C), compiling. 
+[2022.05.02-23.06.21:864][  0]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.21:975][  0]LogMaterial: Display: Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM5, Default, SM5 (DDC key hash: DEE8EEE9CCED9925D8810937912C04A6982C8372), compiling. 
+[2022.05.02-23.06.22:092][  0]LogShaderCompilers: Display: Submitted 58 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:154][  0]LogMaterial: Display: Missing cached shadermap for BaseFlattenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5DDF265CD2DA3B1EA1504856A1826F73033EB1E3), compiling. 
+[2022.05.02-23.06.22:225][  0]LogShaderCompilers: Display: Submitted 58 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:389][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 264
+[2022.05.02-23.06.22:389][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:389][  0]LogMaterial: Display: Missing cached shadermap for Xray in PCD3D_SM5, Default, SM5 (DDC key hash: D0854325C37960938D3546535297C8DBB9EA9704), compiling. 
+[2022.05.02-23.06.22:410][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:411][  0]LogMaterial: Display: Missing cached shadermap for Main in PCD3D_SM5, Default, SM5 (DDC key hash: 49425FC01094765AFA6E20C39A252EE27EE32422), compiling. 
+[2022.05.02-23.06.22:427][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:470][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough in PCD3D_SM5, Default, SM5 (DDC key hash: 317DBCA74C0B9AE195A900A91AFB8FB448048C05), compiling. 
+[2022.05.02-23.06.22:484][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:487][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_SM5, Default, SM5 (DDC key hash: 671EAB7BD06E269B1F0A8DA9650B7D7CD32AC7D5), compiling. 
+[2022.05.02-23.06.22:502][  0]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:529][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: B8CFB825213AA8E700FFAD3CC24FF8B8B06F1F34), compiling. 
+[2022.05.02-23.06.22:545][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 308
+[2022.05.02-23.06.22:545][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:545][  0]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:554][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: F9769A6AC17322291B6B5240EF407EF9ADD41C9C), compiling. 
+[2022.05.02-23.06.22:563][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:573][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: A704F2989A3301A9D1660E5B5B2F99FC57560043), compiling. 
+[2022.05.02-23.06.22:600][  0]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:610][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 341
+[2022.05.02-23.06.22:610][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:610][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 7A6A065F9673C1DFB451A68666D3DB0370E73549), compiling. 
+[2022.05.02-23.06.22:640][  0]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:684][  0]LogMaterial: Display: Missing cached shadermap for Widget3DCameraPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: E33A5C1DF440B587419089A2B669B6EB3736E636), compiling. 
+[2022.05.02-23.06.22:693][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:746][  0]LogMaterial: Display: Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 882DBEE835B262EECFA1A13610843203B5455F6F), compiling. 
+[2022.05.02-23.06.22:761][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:762][  0]LogMaterial: Display: Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 52336E9ABF930CE975EF2452F2187697EE7CAB55), compiling. 
+[2022.05.02-23.06.22:770][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.22:841][  0]LogMaterial: Display: Missing cached shadermap for CineMat in PCD3D_SM5, Default, SM5 (DDC key hash: FFCFF4EA15A13654648849AE4E8BF4D7BC46332B), compiling. 
+[2022.05.02-23.06.22:878][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.23:083][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 413
+[2022.05.02-23.06.23:083][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.02-23.06.23:083][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 403
+[2022.05.02-23.06.23:083][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.02-23.06.23:083][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: 0B1703593885D452E193D14CBDFF5EA2E6FB7E3D), compiling. 
+[2022.05.02-23.06.23:100][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.23:219][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 409
+[2022.05.02-23.06.23:219][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.02-23.06.23:219][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM5, Default, SM5 (DDC key hash: D3B46F7F5D5D86823C9E5E0F54ECDDA61CB19832), compiling. 
+[2022.05.02-23.06.23:230][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.23:601][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 411
+[2022.05.02-23.06.23:601][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.02-23.06.23:602][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 401
+[2022.05.02-23.06.23:602][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.02-23.06.23:602][  0]LogMaterial: Display: Missing cached shadermap for SkySphereMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BAB415BF7F9F8C43D3A8D3A87642F66D22E46C7C), compiling. 
+[2022.05.02-23.06.23:610][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.23:697][  0]LogMaterial: Display: Missing cached shadermap for FloorPlaneMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1E547552358DC0065AC5EB09CE0AAC053ACAC7B7), compiling. 
+[2022.05.02-23.06.23:726][  0]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.23:769][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.05.02-23.06.23:988][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B76CBE5757DE9F01068F8DC7554D81662160243D), compiling. 
+[2022.05.02-23.06.24:015][  0]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.24:043][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmoHeight_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B01939995E8CA56BF52EE92009AE86290AE2F583), compiling. 
+[2022.05.02-23.06.24:097][  0]LogShaderCompilers: Display: Submitted 55 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.24:132][  0]LogMaterial: Display: Missing cached shadermap for SplineEditorMeshMat in PCD3D_SM5, Default, SM5 (DDC key hash: D11ED941C605F5F9D644A11887CBCB53160CF185), compiling. 
+[2022.05.02-23.06.24:155][  0]LogShaderCompilers: Display: Submitted 22 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.24:191][  0]LogMaterial: Display: Missing cached shadermap for PokeAHoleMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F6E7AD3A996B58F7727313A8E49AE69E667554C3), compiling. 
+[2022.05.02-23.06.24:207][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.24:208][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.02-23.06.25:580][  0]LogMoviePlayer: Initializing movie player
+[2022.05.02-23.06.25:772][  0]LogMaterial: Display: Missing cached shadermap for DefaultSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3D6AF2A7520CC4123F911D867B5A286447A189C4), compiling. 
+[2022.05.02-23.06.25:851][  0]LogShaderCompilers: Display: Submitted 78 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.25:862][  0]LogMaterial: Display: Missing cached shadermap for OpaqueUnlitSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A7787664EF8ACE3360BC3CFF532752362F84204B), compiling. 
+[2022.05.02-23.06.25:897][  0]LogShaderCompilers: Display: Submitted 33 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.26:312][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A5B05EB64C7BCA251BCD2BB47C7DF694 | Instance: C0E22A0B458B131ABC69C49220894804 (DESKTOP-2J5DN8J-11064).
+[2022.05.02-23.06.26:532][  0]LogCollectionManager: Loaded 0 collections in 0.003985 seconds
+[2022.05.02-23.06.26:536][  0]LogFileCache: Scanning file cache for directory 'C:/Pri/Courses/CS684VR/VRChess/VRChess/Saved/Collections/' took 0.00s
+[2022.05.02-23.06.26:536][  0]LogFileCache: Scanning file cache for directory 'C:/Pri/Courses/CS684VR/VRChess/VRChess/Content/Developers/UNR/Collections/' took 0.00s
+[2022.05.02-23.06.26:537][  0]LogFileCache: Scanning file cache for directory 'C:/Pri/Courses/CS684VR/VRChess/VRChess/Content/Collections/' took 0.00s
+[2022.05.02-23.06.26:537][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.05.02-23.06.27:054][  0]LogMaterial: Display: Missing cached shadermap for DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 440745D270D2B9DC2196B136142858B0700BF868), compiling. 
+[2022.05.02-23.06.27:264][  0]LogShaderCompilers: Display: Submitted 187 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.27:277][  0]LogMaterial: Display: Missing cached shadermap for M_Emissive_Color in PCD3D_SM5, Default, SM5 (DDC key hash: C0A72E5F6DA8FB93A8B2B908381476B03839B0D5), compiling. 
+[2022.05.02-23.06.27:285][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.27:299][  0]LogMaterial: Display: Missing cached shadermap for VertexColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A3CDD786B34F694469EA54391071C6389F04AAAC), compiling. 
+[2022.05.02-23.06.27:412][  0]LogShaderCompilers: Display: Submitted 105 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.27:428][  0]LogMaterial: Display: Missing cached shadermap for WireframeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: EF2B696185789BB9CB32C2DE47FE75A60636D4A2), compiling. Is special engine material.
+[2022.05.02-23.06.28:085][  0]LogShaderCompilers: Display: Submitted 727 shader compile jobs with 'Low' priority
+[2022.05.02-23.06.28:767][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1673
+[2022.05.02-23.06.28:767][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.02-23.06.28:767][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1663
+[2022.05.02-23.06.28:767][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1653
+[2022.05.02-23.06.28:767][  0]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2022.05.02-23.06.28:767][  0]LogPython: Using Python 3.7.7
